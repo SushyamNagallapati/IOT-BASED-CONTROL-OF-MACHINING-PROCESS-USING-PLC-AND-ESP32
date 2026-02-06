@@ -97,5 +97,5 @@ Mobile App → ESP32 → Relay → PLC → Machine
 
 ## License
 
-This project is intended for educational and learning purposes.  
+This project is intended for learning purposes.  
 You are free to explore, modify, and build upon it.
